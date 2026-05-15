@@ -57,3 +57,14 @@ Operational reliability analysis of a global supply chain dataset focused on del
 - Python · Pandas · SQLAlchemy
 - PostgreSQL · SQL
 - Power BI · DAX
+
+## Dashboard Preview
+
+### Page 1 — Executive Overview
+![Executive Overview](screenshots/Page%201.png)
+
+### Page 2 — Shipping Mode Diagnostics
+![Shipping Mode Diagnostics](screenshots/Page%202.png)
+
+### Page 3 — Structural Analysis & Executive Insights
+![Systemic Reliability Analysis](screenshots/Page%203.png)
